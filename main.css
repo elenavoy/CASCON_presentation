@@ -1,0 +1,29 @@
+.reveal h1 { 
+	font-size: 2.0em; 
+	text-shadow: none;
+} 
+
+.reveal p.small{
+	font-size: 0.5em;
+}
+
+.reveal section:not(.center){
+	text-align: left;
+
+}
+
+.reveal .orange{
+	color: #FF6600;
+}
+
+.reveal .red{
+	color: #B20000;
+}
+.reveal .white{
+	color: white;
+}
+
+.reveal .no-border{
+	border: none;
+}
+
