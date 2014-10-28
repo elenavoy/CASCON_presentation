@@ -16,6 +16,10 @@
 	color: #FF6600;
 }
 
+.reveal .grey{
+	color: #ccc
+}
+
 .reveal .red{
 	color: #B20000;
 }
@@ -27,3 +31,14 @@
 	border: none;
 }
 
+.reveal a{
+	color:#FF6600;
+}
+
+.reveal blockquote {
+	padding: 20px;
+  
+	text-align: left;
+	width: 80%;
+	border-left: 20px solid #ccc;
+} 
